@@ -31,6 +31,6 @@ public class Solution {
             right--;
         }
 
-        return true;
+        return  0;
     }
 }
